@@ -1,0 +1,2 @@
+# CodeClauseInternship_Customer-Segmentation-system
+customer-segmentation-python
